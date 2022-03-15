@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "binary tree", "binary tree\binary tree.vcxproj", "{0FDCFE9B-76C2-4898-9487-1C9D03C917A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FDCFE9B-76C2-4898-9487-1C9D03C917A0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0FDCFE9B-76C2-4898-9487-1C9D03C917A0}.Debug|Win32.Build.0 = Debug|Win32
+		{0FDCFE9B-76C2-4898-9487-1C9D03C917A0}.Release|Win32.ActiveCfg = Release|Win32
+		{0FDCFE9B-76C2-4898-9487-1C9D03C917A0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

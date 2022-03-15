@@ -1,0 +1,17 @@
+﻿Build started 29-Jul-19 12:14:53 PM.
+     1>Project "C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Project197\Project197\Project197.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\lenovo\documents\visual studio 2012\projects\project197\project197\source.cpp(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\lenovo\documents\visual studio 2012\projects\project197\project197\source.cpp(74): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Project197\Debug\Project197.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Project197\Debug\Project197.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Project197\Debug\Project197.lib" /MACHINE:X86 Debug\Source.obj
+         Project197.vcxproj -> C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Project197\Debug\Project197.exe
+     1>Done Building Project "C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Project197\Project197\Project197.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.42
